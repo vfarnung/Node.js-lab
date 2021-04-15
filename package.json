@@ -1,0 +1,22 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackedwards/nodejs345.git"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "Viviane Farnung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vfarnung/Node.js-lab/issues"
+  }
+}
